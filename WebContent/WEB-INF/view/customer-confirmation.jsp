@@ -10,5 +10,7 @@
 </head>
 <body>
 The customer is confirmed: ${customer.lastName}, ${customer.firstName}
+<br></br>
+Free Passes: ${customer.freePasses}
 </body>
 </html>
